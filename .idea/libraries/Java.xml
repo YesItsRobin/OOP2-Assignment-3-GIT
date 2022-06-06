@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Java">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/Prog/Java" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Desktop/Prog/Java/Libraries/commons-csv-1.9.0/apidocs" />
+      <root url="file://$USER_HOME$/Desktop/Prog/Java/Libraries/commons-io-2.11.0/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/Prog/Java/OOP2 - Exam #2 - 2021-2022 - Term 3 - GUI/src" />
+      <root url="file://$USER_HOME$/Desktop/Prog/Java/OOP2-Assignment-1/src" />
+      <root url="file://$USER_HOME$/Desktop/Prog/Java/OOP2-Assignment/OOP2.3(1)/src" />
+      <root url="file://$USER_HOME$/Desktop/Prog/Java/OOP2.2/src" />
+    </SOURCES>
+  </library>
+</component>

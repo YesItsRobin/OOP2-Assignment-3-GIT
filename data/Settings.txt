@@ -1,0 +1,26 @@
+[Local]
+Environment: DEVELOPMENT
+LogLevel: 0
+
+[Paths]
+BaseDirectory: C:\Users\capib\Desktop\Prog\Java\OOP2-assignment3
+DataDirectory: C:\Users\capib\Desktop\Prog\Java\OOP2-assignment3\data
+OutputDirectory: C:\Users\capib\Desktop\Prog\Java\OOP2-assignment3\output
+CustomStars: C:\Users\capib\Desktop\Prog\Java\OOP2-assignment3\data\custom_stars (1).csv
+Species: C:\Users\capib\Desktop\Prog\Java\OOP2-assignment3\data\custom_species (1).xlsx
+
+[Files]
+StarCSV: stars.csv
+
+[Galaxy]
+Thickness: 10.0
+NumberOfStars: 80000000000
+GalaxySize: 35000
+KnownGalaxy: 300
+SeenGalaxy: 500
+DetectedGalaxy: 1000
+UnknownGalaxy: 2500
+
+[Generating]
+Seed: 1971010312
+MinDistance: 0.2
